@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nailton Sousa",
+      "email": "nailton.osn@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "title": "Produto 1",
+      "price": 150,
+      "id": 2
+    },
+    {
+      "title": "Produto 1",
+      "price": 150,
+      "id": 3
+    },
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 4
+    },
+    {
+      "title": "Produto 1",
+      "price": 180,
+      "id": 5
+    },
+    {
+      "title": "Produto 1",
+      "price": "120",
+      "id": 6
+    }
+  ],
+  "orders": [
+    {
+      "data": "2020-05-15T00:28:05.287Z",
+      "id": 1
+    },
+    {
+      "data": "2020-05-15T00:28:46.559Z",
+      "uuid": "73d25e17-4fa7-4efb-b735-ece3cee68850",
+      "id": 2
+    }
+  ]
+}
